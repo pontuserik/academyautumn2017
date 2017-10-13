@@ -1,7 +1,7 @@
 header {
-    background-color: aqua;
+  background-color: #2600ff;
 }
 img {
-    max-width: 300 px;
-    max-height: 300 px;
+  max-width: 200 px;
+  max-height: 200 px;
 }
